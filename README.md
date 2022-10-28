@@ -42,7 +42,7 @@ Pandas, numpy, maplotlib, tensorflow, keras, math, requests, sklearn, seaborn
 Notion, Github, Slack
 ```
 
-최종 발표 자료 참고 <br>
+최종 발표 자료 <br>
 [링크](https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD.pdf)
 
 ## directory structure
