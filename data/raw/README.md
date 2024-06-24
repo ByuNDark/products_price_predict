@@ -2,7 +2,7 @@
 
 ## raw data입니다.
 - 이 데이터는 변경 불가능합니다.
-- raw 데이터의 크기가 커 [Google Drive](https://drive.google.com/drive/folders/1t7bitT1ekuxVPQbqEO6fWch1PDaMf-3p)로 대체합니다. 
+- raw 데이터의 용량 크므로 [Google Drive](https://drive.google.com/drive/folders/1t7bitT1ekuxVPQbqEO6fWch1PDaMf-3p)로 대체합니다. 
 
 
 ## Data Explanation
@@ -12,6 +12,7 @@
 1. public_data : public leaderboard용 데이터
 
 	1-1. train.csv : 베이스라인 코드용으로 가공된 학습 데이터
+	[기간] 2016년 1/1 ~ 2020년 9/28
 
 date: 일자<br>
 요일: 요일<br>

@@ -1,4 +1,4 @@
-<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B3%E1%84%8F%E1%85%AE%E1%86%AF.png" width="2000" style="float:left" />
+<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%EC%9D%B4%EC%96%B4%EB%93%9C%EB%A6%BC%EC%8A%A4%EC%BF%A8.png" width="2000" style="float:left" />
 
 # 스타트업 연계 프로젝트 
  - 주관 : 중소기업벤처부 이어드림 스쿨 2기
@@ -12,7 +12,8 @@
 ```
 
 **[소개]**<br>
-기업에서 제시한 주제 혹은 데이터를 활용하여 기업의 과제를 해결하고 우수 인재를 사전 검증 및 채용할 수 있는 프로젝트입니다. 혁신 벤처 스타트업에서 필요로 하는 인공지능 실무 인력 양성을 통해 채용 연계까지 이어질 수 있습니다. 
+기업에서 제시한 주제 혹은 데이터를 활용하여 기업의 과제를 해결하고 우수 인재를 사전 검증 및 채용할 수 있는 프로젝트입니다. 혁신 벤처 스타트업에서 필요로 하는 인공지능 실무 인력 양성을 통해 채용 연계까지 이어질 수 있습니다.<br>
+```농산물 품목 : 팽이버섯, 깻잎, 대파, 토마토, 캠벨얼리```
 
 **[기간]**<br>
 2022년 9월 05일 - 2022년 10월 25일
@@ -34,9 +35,15 @@
 개발 도구
 Colab, VSCode, M1 Jupyter Notebook
 
+라이브러리 
+Pandas, numpy, maplotlib, tensorflow, keras, math, requests, sklearn, seaborn
+
 협업 툴
 Notion, Github, Slack
 ```
+
+최종 발표 자료 <br>
+[링크](https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD.pdf)
 
 ## directory structure
 <img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/directory%20structure.png" width="300" style="float:left" />
